@@ -1,2 +1,2 @@
-# Sporify-desktop
+# Spotify-desktop
 Spotify landing page 
